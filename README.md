@@ -16,3 +16,14 @@ This project can answer rhis question below.:
 1- How to achieve customer segmentation using machine learning algorithm (KMeans Clustering) in Python in simplest way.
 2- Who are your target customers with whom you can start marketing strategy [easy to converse]
 3- How the marketing strategy works in real world
+
+
+Customer Segmentation and Analysis
+Steps to solve the problem :
+1- Importing Libraries.
+2- Exploration of data.
+3- Data Visualization.
+4- Clustering using K-Means.
+5- Selection of Clusters.
+6- Ploting the Cluster Boundry and Clusters.
+7- 3D Plot of Clusters.
